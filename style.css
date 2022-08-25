@@ -1,5 +1,6 @@
 li {
   padding: 0.3rem;
+  cursor: pointer;
 }
 
 .done {
